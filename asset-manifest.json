@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CV-Website/static/css/main.2e19ce88.css",
+    "main.js": "/CV-Website/static/js/main.8085a202.js",
+    "static/js/453.7b3a26c7.chunk.js": "/CV-Website/static/js/453.7b3a26c7.chunk.js",
+    "static/media/DarrenImage01.jpg": "/CV-Website/static/media/DarrenImage01.29f490bf340be638dbe7.jpg",
+    "index.html": "/CV-Website/index.html",
+    "main.2e19ce88.css.map": "/CV-Website/static/css/main.2e19ce88.css.map",
+    "main.8085a202.js.map": "/CV-Website/static/js/main.8085a202.js.map",
+    "453.7b3a26c7.chunk.js.map": "/CV-Website/static/js/453.7b3a26c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e19ce88.css",
+    "static/js/main.8085a202.js"
+  ]
+}
