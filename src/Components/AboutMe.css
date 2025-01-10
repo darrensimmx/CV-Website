@@ -1,0 +1,31 @@
+/* AboutMe.css */
+.about-me {
+  padding: 40px;
+  background-color: #f9f9f9; /* Light background color for contrast */
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  margin: 20px auto;
+  max-width: 800px;
+}
+
+.about-me h2 {
+  font-size: 2rem;
+  color: #333;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.about-me-content p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  color: #555;
+  margin-bottom: 15px;
+}
+
+.about-me-content strong {
+  color: #4CAF50; /* Accent color to highlight key points */
+}
+
+.about-me-content p:last-child {
+  margin-bottom: 0;
+}

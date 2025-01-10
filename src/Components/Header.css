@@ -1,0 +1,36 @@
+/* src/Components/Header.css */
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #b3d2d6;
+  padding: 20px;
+  box-sizing: border-box;
+}
+h1 {
+  color: #333;
+}
+
+.text-content {
+  display: flex;
+  flex-direction: column; /* Stack text items vertically */
+  justify-content: center; /* Center-align text vertically relative to image */
+  text-align: center; /* Horizontally center-align text within the text block */
+}
+img {
+  width: 200px;
+  height: auto;
+  border-radius: 10%;
+  margin-right: 50px;
+}
+
+.header-link {
+  color: rgb(172, 97, 48);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.header-link:hover {
+  text-decoration: underline;
+  color: rgb(196, 43, 43);
+}
