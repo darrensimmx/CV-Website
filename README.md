@@ -4,7 +4,7 @@ This is a personal CV website built with [Create React App](https://github.com/f
 
 ## 🌐 Live Demo
 
-👉 [Visit the Website][https://<your-username>.github.io/<your-repo-name>/](https://darrensimmx.github.io/CV-Website/)
+👉 [Visit the Website](https://darrensimmx.github.io/CV-Website/)
 
 ## 🚀 Getting Started
 
