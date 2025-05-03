@@ -11,7 +11,7 @@ This is a personal CV website built with [Create React App](https://github.com/f
 To run this project locally:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/<darrensimmx>/<CV-Website>.git
+cd <CV-Website>
 npm install
 npm start
