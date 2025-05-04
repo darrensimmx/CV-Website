@@ -16,7 +16,7 @@ const AboutMe = () => {
           both professionally and personally. 
         </p>
         <p>
-          Beyond academics, I enjoy spending time polishing my cullinary Skills, which have taught me the importance of precision and well planned executions. I’m always eager to connect with like-minded individuals and explore new opportunities to 
+          Beyond academics, I enjoy spending time polishing my culinary Skills, which have taught me the importance of precision and well planned executions. I’m always eager to connect with like-minded individuals and explore new opportunities to 
           make a positive impact.
         </p>
       </div>
